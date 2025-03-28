@@ -1,0 +1,20 @@
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\bin\Debug\MaiaeLeo.exe.config
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\bin\Debug\MaiaeLeo.exe
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\bin\Debug\MaiaeLeo.pdb
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.csproj.AssemblyReference.cache
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.Form1.resources
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.Properties.Resources.resources
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.csproj.GenerateResource.cache
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.exe
+C:\Users\2ds\Desktop\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.pdb
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\bin\Debug\MaiaeLeo.exe.config
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\bin\Debug\MaiaeLeo.exe
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\bin\Debug\MaiaeLeo.pdb
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.csproj.AssemblyReference.cache
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.Form1.resources
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.Properties.Resources.resources
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.csproj.GenerateResource.cache
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.exe
+F:\2A-DS-PI\Maia e Leo\DS\ExeDS\MaiaeLeo\MaiaeLeo\obj\Debug\MaiaeLeo.pdb
